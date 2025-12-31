@@ -1,26 +1,24 @@
 🍽️ Restaurant Website – Milestone 1 (Next.js + Tailwind CSS)
 
-A modern, responsive restaurant website built using Next.js (App Router) and Tailwind CSS, focusing on clean UI, reusable components, and proper project structure.
+A modern, responsive **restaurant website** built using **Next.js (App Router)** and **Tailwind CSS**, focusing on clean UI, reusable components, and proper project structure.
 
-This project represents Milestone 1 of my frontend development journey, where I practiced building a real-world layout using Next.js routing and Tailwind utility-first styling.
+This project represents **Milestone 1** of my frontend development journey, where I practiced building a real-world layout using Next.js routing and Tailwind utility-first styling.
 
-🔗 Live Website → https://milestone1-gules.vercel.app
+🔗 **Live Website** → [https://milestone1-gules.vercel.app](https://milestone1-gules.vercel.app)
+📁 **GitHub Repository** → [https://github.com/amulypshetty/Restaurant-Milestone1.git](https://github.com/amulypshetty/Restaurant-Milestone1.git)
 
-📁 GitHub Repository → https://github.com/amulypshetty/Restaurant-Milestone1.git
+---
 
 🚀 Tech Stack
 
-Next.js 13+ (App Router)
+* Next.js 13+ (App Router)
+* React
+* Tailwind CSS
+* JavaScript
+* Node.js
+* Vercel
 
-React
-
-Tailwind CSS
-
-JavaScript
-
-Node.js
-
-Vercel
+---
 
 ⭐ Features
 
@@ -32,7 +30,11 @@ Vercel
 ✔️ Optimized performance with Next.js
 ✔️ Easy to customize and extend
 
+---
+
 📦 Project Structure
+
+```
 📁 Restaurant-Milestone1
 ├── app/
 │   ├── AboutUs/
@@ -65,51 +67,51 @@ Vercel
 ├── package.json
 ├── package-lock.json
 └── .gitignore
+```
+
+---
 
 🛠️ Installation & Setup
 
-Clone the repository
+1. Clone the repository
 
+```bash
 git clone https://github.com/amulypshetty/Restaurant-Milestone1.git
+```
 
+2. Navigate to the project folder
 
-Navigate to the project folder
-
+```bash
 cd Restaurant-Milestone1
+```
 
+3. Install dependencies
 
-Install dependencies
-
+```bash
 npm install
+```
 
+4. Run the development server
 
-Run the development server
-
+```bash
 npm run dev
+```
 
+Now visit 👉 **[http://localhost:3000](http://localhost:3000)**
 
-Now visit 👉 http://localhost:3000
+---
 
 📤 Deployment
 
-This project is deployed using Vercel.
+This project is deployed using **Vercel**.
 
 Steps:
 
-Go to https://vercel.com
-
-Import the GitHub repository
-
-Click Deploy
+1. Go to [https://vercel.com](https://vercel.com)
+2. Import the GitHub repository
+3. Click **Deploy**
 
 Vercel automatically detects and optimizes the Next.js application.
 
-📌 Future Enhancements
 
-Add animations and transitions
-
-Improve accessibility
-
-Add dynamic data handling
-
-Enhance UI/UX with advanced Tailwind patterns
+Tell me what you want changed — I’ll only change that 👍

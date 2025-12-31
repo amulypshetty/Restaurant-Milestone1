@@ -1,36 +1,115 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+🍽️ Restaurant Website – Milestone 1 (Next.js + Tailwind CSS)
 
-## Getting Started
+A modern, responsive restaurant website built using Next.js (App Router) and Tailwind CSS, focusing on clean UI, reusable components, and proper project structure.
 
-First, run the development server:
+This project represents Milestone 1 of my frontend development journey, where I practiced building a real-world layout using Next.js routing and Tailwind utility-first styling.
 
-```bash
+🔗 Live Website → https://milestone1-gules.vercel.app
+
+📁 GitHub Repository → https://github.com/amulypshetty/Restaurant-Milestone1.git
+
+🚀 Tech Stack
+
+Next.js 13+ (App Router)
+
+React
+
+Tailwind CSS
+
+JavaScript
+
+Node.js
+
+Vercel
+
+⭐ Features
+
+✔️ Fully responsive modern UI
+✔️ Homepage with hero, menu, blog & chef sections
+✔️ Dedicated About, Blog, and Menu pages
+✔️ Reusable and modular components
+✔️ SEO-friendly routing using Next.js App Router
+✔️ Optimized performance with Next.js
+✔️ Easy to customize and extend
+
+📦 Project Structure
+📁 Restaurant-Milestone1
+├── app/
+│   ├── AboutUs/
+│   │   └── page.js
+│   │
+│   ├── blog/
+│   │   └── page.js
+│   │
+│   ├── menu/
+│   │   └── page.js
+│   │
+│   ├── components/
+│   │   ├── Blog.js
+│   │   ├── BlogSection.js
+│   │   ├── Chef.js
+│   │   ├── Footer.js
+│   │   ├── Header.js
+│   │   ├── Menucard.js
+│   │   └── Openhrs.js
+│   │
+│   ├── layout.js
+│   ├── page.js
+│   └── globals.css
+│
+├── public/
+│
+├── next.config.mjs
+├── jsconfig.json
+├── eslint.config.mjs
+├── package.json
+├── package-lock.json
+└── .gitignore
+
+🛠️ Installation & Setup
+
+Clone the repository
+
+git clone https://github.com/amulypshetty/Restaurant-Milestone1.git
+
+
+Navigate to the project folder
+
+cd Restaurant-Milestone1
+
+
+Install dependencies
+
+npm install
+
+
+Run the development server
+
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+Now visit 👉 http://localhost:3000
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+📤 Deployment
 
-## Learn More
+This project is deployed using Vercel.
 
-To learn more about Next.js, take a look at the following resources:
+Steps:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Go to https://vercel.com
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Import the GitHub repository
 
-## Deploy on Vercel
+Click Deploy
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Vercel automatically detects and optimizes the Next.js application.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+📌 Future Enhancements
+
+Add animations and transitions
+
+Improve accessibility
+
+Add dynamic data handling
+
+Enhance UI/UX with advanced Tailwind patterns

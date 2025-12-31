@@ -1,11 +1,10 @@
 🍽️ Restaurant Website – Milestone 1 (Next.js + Tailwind CSS)
 
-A modern, responsive **restaurant website** built using **Next.js (App Router)** and **Tailwind CSS**, focusing on clean UI, reusable components, and proper project structure.
+A modern, responsive restaurant website built using **Next.js App Router**, **Tailwind CSS**, and clean reusable components.  
+Includes menu pages, blog section, chef details, header/footer components, and smooth UI design.
 
-This project represents **Milestone 1** of my frontend development journey, where I practiced building a real-world layout using Next.js routing and Tailwind utility-first styling.
-
-🔗 **Live Website** →https://milestone1-gules.vercel.app/
-📁 **GitHub Repository** →https://github.com/amulypshetty/Restaurant-Milestone1.git
+🔗 **Live Website** → https://milestone1-gules.vercel.app  
+📁 **GitHub Repository** → https://github.com/amulypshetty/Restaurant-Milestone1  
 
 ---
 
@@ -20,15 +19,15 @@ This project represents **Milestone 1** of my frontend development journey, wher
 
 ---
 
-⭐ Features
+## ⭐ **Features**
 
-✔️ Fully responsive modern UI
-✔️ Homepage with hero, menu, blog & chef sections
-✔️ Dedicated About, Blog, and Menu pages
-✔️ Reusable and modular components
-✔️ SEO-friendly routing using Next.js App Router
-✔️ Optimized performance with Next.js
-✔️ Easy to customize and extend
+✔️ Fully responsive modern UI  
+✔️ Homepage with hero, menu, blog & chef sections  
+✔️ Dedicated **About**, **Blog**, and **Menu** pages  
+✔️ Modular & reusable components  
+✔️ SEO-friendly Next.js routing  
+✔️ Fast performance with image optimization  
+✔️ Easy to customize and extend  
 
 ---
 

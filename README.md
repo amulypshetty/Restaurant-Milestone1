@@ -4,8 +4,8 @@ A modern, responsive **restaurant website** built using **Next.js (App Router)**
 
 This project represents **Milestone 1** of my frontend development journey, where I practiced building a real-world layout using Next.js routing and Tailwind utility-first styling.
 
-🔗 **Live Website** → [https://milestone1-gules.vercel.app](https://milestone1-gules.vercel.app)
-📁 **GitHub Repository** → [https://github.com/amulypshetty/Restaurant-Milestone1.git](https://github.com/amulypshetty/Restaurant-Milestone1.git)
+🔗 **Live Website** →https://milestone1-gules.vercel.app/
+📁 **GitHub Repository** →https://github.com/amulypshetty/Restaurant-Milestone1.git
 
 ---
 
@@ -97,7 +97,7 @@ npm install
 npm run dev
 ```
 
-Now visit 👉 **[http://localhost:3000](http://localhost:3000)**
+Now visit 👉  http://localhost:3000
 
 ---
 
@@ -107,7 +107,7 @@ This project is deployed using **Vercel**.
 
 Steps:
 
-1. Go to [https://vercel.com](https://vercel.com)
+1. Go to https://vercel.com
 2. Import the GitHub repository
 3. Click **Deploy**
 
